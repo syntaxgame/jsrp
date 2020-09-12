@@ -1,6 +1,6 @@
 BigInteger = require('jsbn').BigInteger
 createHash = require 'create-hash'
-randomBytes = require 'randombytes'
+randomBytes = require 'react-native-randombytes'
 
 transform = require './transform'
 parameters = require './parameters'
